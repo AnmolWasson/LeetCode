@@ -1,5 +1,5 @@
+package DailyProblems;
 import java.util.*;
-
 public class May29 {
 
   //318. Maximum Product of Word Lengths
