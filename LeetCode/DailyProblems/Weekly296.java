@@ -1,5 +1,5 @@
 import java.util.*;
-public class Weekly296.java{
+public class Weekly296{
 
 
 //     public int partitionArray(int[] nums, int k) {
