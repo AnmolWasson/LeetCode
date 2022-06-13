@@ -140,8 +140,10 @@ int cost[]={2,5,3};
                      return replace;
                }
 
+                
+
                else{
-return Math.min(insert+cost[0],Math.min(delete+cost[1],replace+cost[2]));
+                  return Math.min(insert+cost[0],Math.min(delete+cost[1],replace+cost[2]));
                }
         }
 }
